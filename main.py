@@ -6,8 +6,8 @@ import time
 
 
 
-MyNetwork = "Rassi Net3"
-MyPassword = "Holyshit"
+MyNetwork = "R***********3"
+MyPassword = "H*************t"
 
 DEVICE_ID = "ESP77"  # change per device
 
