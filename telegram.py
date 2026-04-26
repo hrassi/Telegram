@@ -24,8 +24,8 @@ import urequests
 import ujson
 import gc
 
-TELEGRAM_TOKEN = "8774110596:AAEylbWoLA5bWnasp2oaqPXAlU1MYaMudME"
-TELEGRAM_CHAT_ID = "8368702577"
+TELEGRAM_TOKEN = "87*****************************MudME"
+TELEGRAM_CHAT_ID = "8***********************7"
 
 
 def send_telegram(device_id, message):
